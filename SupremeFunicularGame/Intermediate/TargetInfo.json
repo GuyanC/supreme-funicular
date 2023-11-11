@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SupremeFunicularGame",
+			"Path": "..\\Source\\SupremeFunicularGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SupremeFunicularGameEditor",
+			"Path": "..\\Source\\SupremeFunicularGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
